@@ -1,0 +1,1 @@
+This README preserves the data/ folder so that this folder is tracked for Git. 
